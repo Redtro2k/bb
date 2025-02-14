@@ -13,11 +13,12 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-pink-300 to-red-500 p-4">
     <div className="bg-white rounded-3xl shadow-2xl p-6 sm:p-10 text-center max-w-md w-full border border-red-300">
       <Image 
-        src="/images/IMG_0642.jpg" 
+        src="https://github.com/Redtro2k/bb/blob/main/public/images/IMG_0642.jpg?raw=true" 
         alt="Valentine's Day"
         width={400} 
         height={250} 
         className="rounded-lg mb-4 shadow-md w-full"
+        unoptimized={true}
       />
 
       <h1 className="text-3xl sm:text-4xl font-extrabold text-red-600 flex items-center justify-center gap-2">
