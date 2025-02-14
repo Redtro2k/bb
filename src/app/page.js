@@ -13,7 +13,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-pink-300 to-red-500 p-4">
     <div className="bg-white rounded-3xl shadow-2xl p-6 sm:p-10 text-center max-w-md w-full border border-red-300">
       <Image 
-        src="https://github.com/Redtro2k/bb/blob/main/public/images/IMG_0642.jpg?raw=true" 
+        src="/images/IMG_0642.jpg" 
         alt="Valentine's Day"
         width={400} 
         height={250} 
